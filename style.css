@@ -1,0 +1,39 @@
+.title { 
+    text-align: center;
+} 
+
+.base_design { 
+    color:white; 
+    background-image: url(https://wallpapertag.com/wallpaper/full/f/9/1/413446-large-space-star-background-1920x1080-for-android-50.jpg);
+} 
+
+.meat_and_potatos { 
+    text-align: center; 
+} 
+
+h1 {  
+    font-size: 80px
+ 
+}
+
+h2 {  
+    font-size: 35px
+
+}
+
+p {  
+    font-size: 20px; 
+    width: 800px; 
+    margin: auto;
+} 
+
+.search_bar {  
+    text-align: center; 
+    padding: 10px 250px;
+} 
+
+.button_style {  
+    margin: 30px; 
+    padding: 10px 100px;  
+    border-radius: 25px;   
+}
